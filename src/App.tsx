@@ -277,7 +277,7 @@ export default function App() {
                 </div>
 
                 <div className="time">
-                  Muhoortham <b>10:50 – 10:55 AM</b>
+                  Muhoortham <b>10:50 – 11:55 AM</b>
                 </div>
 
                 {/* GROOM HOME LOCATION */}
